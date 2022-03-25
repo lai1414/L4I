@@ -5,7 +5,8 @@ A program made by ali.
 Scripter - alii#1007
 Suggestion credits - Shailatii么#9121
 
-
+Everything made by alii#1007
+Made in Python 3.9
                                                                                                     
                                                                                                     
                                                                                                     
